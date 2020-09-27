@@ -1,10 +1,11 @@
 {
 	"name": "vscode-plugin-remove-comments",
-	"displayName": "一键删除所有的注释",
-	"description": "一键删除所有的注释",
+	"displayName": "-remove-comments",
+	"description": "-remove-comments",
 	"keywords": ["vscode", "plugin", "comments"],
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "zhangrenyang",
+	"repository":"https://github.com/zhangrenyang/vscode-plugin-remove-comments",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
@@ -35,7 +36,7 @@
 		"commands": [
 			{
 				"command": "vscode-plugin-remove-comments.removeComments",
-				"title": "删除注释"
+				"title": "-remove-comments"
 			}
 		],
 		"keybindings": [
