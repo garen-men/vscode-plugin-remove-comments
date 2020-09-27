@@ -3,7 +3,7 @@
 	"displayName": "remove-js-comments",
 	"description": "remove-js-comments",
 	"keywords": ["vscode", "plugin", "comments"],
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "zhangrenyang",
 	"repository":"https://github.com/zhangrenyang/vscode-plugin-remove-comments",
 	"engines": {
