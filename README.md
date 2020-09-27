@@ -1,3 +1,3 @@
 # vscode-plugin-remove-comments README
 
-<img src="http://img.zhufengpeixun.com/remove-js-comments.png"/>
+<img src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png"/>
